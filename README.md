@@ -8,7 +8,7 @@
     background-repeat: no-repeat;">
     <div style="width: 100%; height: 100%; display: flex;">
         <div style="width: 50%; height: 100%; max-width: 200px; display:flex; justify-content: center; padding: 10px;">
-            <img src="https://github.com/phoenixSaket/analog-clock/blob/main/src/assets/Avatars/avatar-23.png?raw=true" alt="avatar" style="width: auto; height: 100%;">
+            <img src="https://raw.githubusercontent.com/phoenixSaket/saketVerma/master/saketverma/src/Images/SaketVerma_BW2.jpg" alt="avatar" style="width: auto; height: 100%; max-height: 200px;">
         </div>
         <div
             style="width: 50%; height: 100%; display: flex; justify-content: center; align-items:flex-start; flex-direction: column;">
