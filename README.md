@@ -7,9 +7,6 @@
     font-family: 'Cabin', sans-serif;
     background-repeat: no-repeat;">
     <div style="width: 100%; height: 100%; display: flex; flex-direction: row; justify-content: center; align-items: center;">
-        <div style="width: 50%; height: 100%; max-width: 200px; display: flex; justify-content: center; padding: 10px;">
-            <img src="https://github.com/phoenixSaket/analog-clock/blob/main/src/assets/Avatars/avatar-23.png?raw=true" alt="avatar" style="width: auto; height: 100%; max-height: 200px;">
-        </div>
         <div
             style="width: 50%; height: 100%; display: flex; justify-content: center; align-items:flex-start; flex-direction: column;">
             <div style="font-size: 25px; font-weight: 700">Saket Verma</div>
