@@ -1,30 +1,49 @@
-<!-- <img src="https://raw.githubusercontent.com/phoenixSaket/saketVerma/master/saketverma/src/Images/InstaBG3.png" alt="Banner" title="banner" width="100%" height="auto"> -->
+<p align="left">Saket Verma<br>Developer / Programmer<br>Hi, I’m @phoenixSaket AKA Saket Verma<br>I’m interested in web development, native development some times backend development too :-)<br>I’m currently learning whatever intrigues me.</p>
 
-<div class="" style="background: url('https://raw.githubusercontent.com/phoenixSaket/saketVerma/master/saketverma/src/Images/InstaBG3.png'); width: 100%;
-    height: 300px;
-    background-position: center;
-    background-size: cover;
-    font-family: 'Cabin', sans-serif;
-    background-repeat: no-repeat;">
-    <div style="width: 100%; height: 100%; display: flex; flex-direction: row; justify-content: center; align-items: center;">
-        <div
-            style="width: 50%; height: 100%; display: flex; justify-content: center; align-items:flex-start; flex-direction: column;">
-            <div style="font-size: 25px; font-weight: 700">Saket Verma</div>
-            <div style="font-size: 20px; font-weight: 600">Developer / Programmer</div>
-            <div style="margin-top: 20px"> Hi, I’m @phoenixSaket AKA Saket Verma</div>
-            <div> I’m interested in web development, native development some times backend development too :-)</div>
-            <div> I’m currently learning whatever intrigues me.</div>
-            <div> You can reach me through my portfolio : <a href="phoenixSaket.github.io/portfolio">Portfolio</a></div>
-        </div>
-    </div>
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phoenixSaket&radius=16&theme=merko&area=true&order=5&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phoenixSaket&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2&custom_title=%20" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=phoenixSaket&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
 </div>
-<!---
-- 👋 Hi, I’m @phoenixSaket AKA Saket Verma
-- 👀 I’m interested in web development, native development some times backend development too :-)
-- 🌱 I’m currently learning whatever intrigues me.
-- 📫 You can reach me through my portfolio : phoenixSaket.github.io/portfolio
---->
-<!---
-phoenixSaket/phoenixSaket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="26" alt="angularjs logo"  />
+  <img width="51" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="26" alt="nodejs logo"  />
+  <img width="51" />
+  <img src="https://cdn.simpleicons.org/ionic/3880FF" height="26" alt="ionic logo"  />
+  <img width="51" />
+  <img src="https://cdn.simpleicons.org/electron/47848F" height="26" alt="electron logo"  />
+  <img width="51" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="26" alt="html5 logo"  />
+  <img width="51" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="26" alt="css3 logo"  />
+  <img width="51" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="26" alt="typescript logo"  />
+  <img width="51" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="26" alt="javascript logo"  />
+  <img width="51" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="26" alt="sqlite logo"  />
+  <img width="51" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="26" alt="photoshop logo"  />
+  <img width="51" />
+  <img src="https://cdn.simpleicons.org/adobexd/FF61F6" height="26" alt="xd logo"  />
+  <img width="51" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="26" alt="figma logo"  />
+  <img width="51" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="26" alt="androidstudio logo"  />
+  <img width="51" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="26" alt="java logo"  />
+  <img width="51" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="26" alt="react logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/phoenixSaket/phoenixSaket/output/snake.svg" alt="Snake animation" />
+
+###
