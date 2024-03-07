@@ -12,7 +12,7 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="26" alt="angularjs logo"  />
-  <img width="51" />
+  <img width="38" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="26" alt="nodejs logo"  />
   <img width="51" />
   <img src="https://cdn.simpleicons.org/ionic/3880FF" height="26" alt="ionic logo"  />
