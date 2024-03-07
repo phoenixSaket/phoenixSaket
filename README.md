@@ -44,6 +44,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/phoenixSaket/phoenixSaket/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/phoenixSaket/phoenixSaket/blob/main/phoenixSaket/output/snake.svg" alt="Snake animation" />
 
 ###
