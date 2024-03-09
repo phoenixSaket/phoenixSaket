@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=phoenixSaket&radius=16&theme=merko&area=true&order=5&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phoenixSaket&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2&custom_title=%20" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=phoenixSaket&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=phoenixSaket&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  /> -->
 </div>
 
 ###
